@@ -24,3 +24,12 @@ To identify insights and trends in sales data and present them through an intera
 
 ## Dashboard
 <img width="482" height="371" alt="Screenshot 2025-07-21 184251" src="https://github.com/user-attachments/assets/c7d8ec49-1d57-4db5-8420-e7fb43975dda" />
+
+## 📈 Dashboard Highlights
+- Regional Sales Performance
+- Top Products
+- Monthly Revenue Trends
+- Representative-wise Sales
+
+## ✅ Conclusion
+Using Excel, we visualized critical metrics that help understand sales distribution and performance across various categories, aiding better business decisions.
