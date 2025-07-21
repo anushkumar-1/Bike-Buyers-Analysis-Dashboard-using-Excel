@@ -5,3 +5,5 @@ This project focuses on analyzing sales data using Microsoft Excel. It includes 
 ### 🔍 Objective
 To identify insights and trends in sales data and present them through an interactive Excel dashboard.
 
+## Dataset
+- <a href="https://github.com/anushkumar-1/Bike-Buyers-Analysis-Dashboard-using-Excel/blob/main/Excel%20Project%20Dataset.xlsx">Dataset</a>
